@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EDD4A294-770A-45E8-9A0F-A0074CCA325D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QBaseViewControllerTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6013B222-09D9-4D36-9775-E586ABE4CE5B</key>
+		<string>ssh://github.com/QBaseFramework/QBaseViewControllerTest.git</string>
+		<key>92354D4A-F48D-4CD5-BF86-CF4F6B18E20C</key>
+		<string>https://github.com/QBaseFramework/QBaseViewController</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>test/QBaseViewControllerTest/QBaseViewControllerTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6013B222-09D9-4D36-9775-E586ABE4CE5B</key>
+		<string>../../../..</string>
+		<key>92354D4A-F48D-4CD5-BF86-CF4F6B18E20C</key>
+		<string>../../../../QBaseViewController</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/QBaseFramework/QBaseViewControllerTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6013B222-09D9-4D36-9775-E586ABE4CE5B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>92354D4A-F48D-4CD5-BF86-CF4F6B18E20C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QBaseViewController</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6013B222-09D9-4D36-9775-E586ABE4CE5B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QBaseViewControllerTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>

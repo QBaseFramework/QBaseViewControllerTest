@@ -1,0 +1,3 @@
+[submodule "QBaseViewController"]
+	path = QBaseViewController
+	url = https://github.com/QBaseFramework/QBaseViewController
